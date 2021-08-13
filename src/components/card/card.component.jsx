@@ -8,3 +8,5 @@ export const Card = props => (
         <h1> {props.monster.email } </h1>
     </div>
 )
+
+
