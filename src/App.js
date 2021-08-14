@@ -16,7 +16,6 @@ class App extends Component {
     };
     this.handleChange = this.handleChange.bind(this);
   
-  
   }
 
   componentDidMount() {
